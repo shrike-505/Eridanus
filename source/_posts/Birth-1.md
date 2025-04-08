@@ -17,15 +17,15 @@ tags:
 
 这感情太过复杂而难以言表，我甚至一时间找不到什么合乎情理的比喻，手指在键盘上悬了几秒。而波江座与仙女座的夹缝间，传来一曲欢度圣诞的颂歌。
 
-It's a pony kind of Christmas，
+It's a pony kind of Christmas,
 
 这是小马式的圣诞节，
 
-Its light never fades，
+Its light never fades,
 
 它的光芒永不褪色，
 
-All around the world of Equestria，
+All around the world of Equestria,
 
 遍布小马利亚，
 
@@ -33,6 +33,6 @@ Christmas is here...
 
 圣诞，
 
-To stay，
+To stay,
 
 来了..

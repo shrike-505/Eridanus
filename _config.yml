@@ -102,6 +102,6 @@ theme: frame
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: 'https://github.com/shrike-505/Eridanus.git'
+  repo: 'git@shrike-505:shrike-505/Eridanus.git'
   branch: 'gh-pages'
-  message: 'Site updated: {{ now }}'
+  message: 'Site updated: {{ now("DD HH:mm:ss") }}'
