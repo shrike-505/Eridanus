@@ -1,0 +1,85 @@
+
+# html lang
+language: zh
+
+# header
+site_brand_name: Eridanus
+
+logo_image:
+  enable: false
+  image_path: /logo.png # path to your logo image
+
+menu:
+  首页: /
+  文档: /archives/
+  关于: /about/
+  标签: /tag/
+
+# stylesheets loaded in the <head>
+stylesheets:
+- /css/style.css
+
+# scripts loaded in the end of the body
+scripts:
+- /js/menu.js
+
+# favicon
+favicon: /favicon.ico
+
+date_format: MMM D, YYYY
+
+# profile
+profile:
+  title: 谢幕词
+  body: “当热核爆裂的伽玛射线一举刺穿二十个老态龙钟的星系，击中一对十四岁恋人的心，英仙座每秒钟向太空抛射亿万吨物质，像历史同时蒸发着登徒子和窝囊废，史隆长城前，日珥与耀斑微不足道，波江巨洞下挂满氢浇的核电站与奔锰的巨流河，江山富丽，万朝永祚，人民作威作福，直到星系休战，波霎塌缩，大团圆的焰火让所有相亲相爱者终成眷属，而你终于忍无可忍，再次把望远镜怼在眼上，于是你看到平湖似吻，阔野如抱，字星就在世界的背面凛凛升起，用语言遮蔽宇宙，用词句吞噬星群，诗人如数学家运筹四野，小说家如物理学家平定八荒，预言与典故合二为一，造字者就是上帝，辞典就是经文，科幻就是史诗。”
+  image: /cover.jpg
+
+  links:
+    回到主页: https://shrike505.cc
+    查看所有内容: /archives/
+    Source Code: http://github.com/shrike-505/Eridanus
+    上文出自 biupiukiu.net::字星: https://biupiukiu.net/xs/6169.html#69
+
+# footer
+footer:
+  copyright_info:
+    enable: true
+    author: copyright © 2024-? shrike505
+
+  powered_by: # Powered by Hexo & Frame
+    enable: true
+
+  other_info:
+    enable: true
+    content: All the stars burn in absolute silence.
+
+# color mode: default / classic / dark
+color_mode: classic
+
+# mathjax setting
+# note: need to install the hexo plugin for math: https://github.com/hexojs/hexo-math
+mathjax_enable: false
+
+# comments: support disqus and valine
+valine: # valine setup guide: https://valine.js.org/quickstart.html
+  enable: false
+  appId: # Your valine app Id
+  appKey: # Your valine app Key
+  lang: 'en'
+  placeholder: 'Say something'
+  avatar: 'mp'
+  meta: ['nick', 'mail']
+
+disqus: # disqus setup guide: https://help.disqus.com/en/articles/1717056-publisher-quick-start-guide
+  enable: false
+  disqus_url: # your diqsuq url or shortname
+  language: 'en'
+
+# local search
+local_search:
+  enable: false
+  place_holder: Search Anything
+  trigger: auto # auto: trigger search whenever input changes
+  top_n_per_article: 1 # show top n results per article, show all results by setting to -1
+  unescape: false # unescape html strings to the readable one
+  preload: false # reload the search data when the page loads, this will accelerate the search process
